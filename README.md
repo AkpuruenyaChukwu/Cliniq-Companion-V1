@@ -6,3 +6,5 @@ I will add updated features to the framework as time passes and these updates wi
 This framework is dedicated to my mum, Sophie Alu who has always inspired me and is my role model. This work is also dedicated to my family and to all patients I have met in practice.
 
 I am open to feedback about this work, what do you think I should add, email me at cliniqcompanion@gmail.com
+You can get Cliniq_Compaion for free here - https://selar.co/242747
+
